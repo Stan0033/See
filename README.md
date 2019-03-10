@@ -1,2 +1,2 @@
 # See
-A transpiler to C++
+A readable and intuitive transpiler to C++
